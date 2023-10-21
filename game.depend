@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1697839829 source:d:\courses\walid\tic tac toe\game\generalfun.c
+	<stdio.h>
+	<stdlib.h>
+	"GeneralFun.h"
+
+1697839397 d:\courses\walid\tic tac toe\game\generalfun.h
+
+1697842824 source:d:\courses\walid\tic tac toe\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1697839428 d:\courses\walid\tic tac toe\game\app1.h
+
+1697839844 source:d:\courses\walid\tic tac toe\game\app1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"GeneralFun.h"
+	"App1.h"
+
